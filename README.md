@@ -32,7 +32,6 @@ Currently, I’m exploring the intersection of **AI, cybersecurity, and web deve
 
 <h3 align="left">🛠 Tech Stack & Tools</h3>
 
-###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
@@ -57,7 +56,7 @@ Currently, I’m exploring the intersection of **AI, cybersecurity, and web deve
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40" alt="aws logo"  />
 </div>
-###
+
 
 <h3 align="left">📊 GitHub Stats</h3>
 
